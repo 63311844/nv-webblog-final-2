@@ -1,4 +1,4 @@
-Hi 👋, what about my project.
+Hi what about my project.
 
 sell music albums
 Project Website Server side web programming by tanatip and Weeraphat
